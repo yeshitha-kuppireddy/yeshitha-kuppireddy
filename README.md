@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web dev projects, open source and machine learning tasks
 - 📫 How to reach me : yashita.kuppireddy@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: My firstname is my surname and lastname is my given name i.e you can call me yeshitha 
+
 
 <!---
 yeshitha-kuppireddy/yeshitha-kuppireddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
