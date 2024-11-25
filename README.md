@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning mern stack technologies and deep learning 
 - 💞️ I’m looking to collaborate on web dev projects, open source and machine learning tasks
 - 📫 How to reach me : yashita.kuppireddy@gmail.com
-- 😄 Pronouns: she/her
 
 
 <!---
